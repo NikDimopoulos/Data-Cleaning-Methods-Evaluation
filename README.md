@@ -1,4 +1,4 @@
-# Data-Cleaning-Methods-Evaluation
+# Data Cleaning Methods Evaluation
 Exploring the impact of outlier removal on multivariate testing 
 
 This repository contains the R code for a simulation study that evaluates how robust statistical methods affect multivariate location testing, correlation structure testing, and linear regression inference in a dataset that has been contaminated by outliers.
