@@ -5,7 +5,7 @@ This repository contains the R code for a simulation study that evaluates how ro
 
 ---
 
-##Overview
+## Overview
 
 This paper explores how different outlier detection methods affect the outcomes of the following multivariate statistical tests:
 
